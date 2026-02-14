@@ -461,8 +461,3 @@ This project is open-source and available for educational purposes.
 7. Start managing leaves!
 
 **Enjoy using the Employee Leave Management System! 🚀**
-# employee-leave-management
-# employee-leave-management_v2
-# employee-leave-management_v2
-# employee-leave-management_v2
-# employee-leave-management
